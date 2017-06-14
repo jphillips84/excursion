@@ -1,0 +1,28 @@
+/* This is the style sheet for excursion
+which is open to version control via GitHub */
+
+html {
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.white_head {
+  font-size: 50px;
+}
+
+.exit_link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
