@@ -26,3 +26,9 @@ p {
   color: gray;
   font-size: 21px;
 }
+
+.copyright {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
+}
